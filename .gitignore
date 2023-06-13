@@ -1,0 +1,10 @@
+node_modules
+.idea
+.vscode
+.idea/*
+results
+allure-results
+allure-report
+screenshots
+videos
+.DS_Store
